@@ -1,0 +1,12 @@
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\bin\Debug\netcoreapp3.1\web-basics.business.deps.json
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\bin\Debug\netcoreapp3.1\web-basics.business.dll
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\bin\Debug\netcoreapp3.1\web-basics.business.pdb
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\bin\Debug\netcoreapp3.1\web-basics.data.dll
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\bin\Debug\netcoreapp3.1\web-basics.data.pdb
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.AssemblyInfoInputs.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.AssemblyInfo.cs
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.csproj.CopyComplete
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.dll
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.business\obj\Debug\netcoreapp3.1\web-basics.business.pdb

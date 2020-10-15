@@ -1,0 +1,9 @@
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\bin\Debug\netcoreapp3.1\web-basics.data.deps.json
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\bin\Debug\netcoreapp3.1\web-basics.data.dll
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\bin\Debug\netcoreapp3.1\web-basics.data.pdb
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.AssemblyInfoInputs.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.AssemblyInfo.cs
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.dll
+C:\Users\НакуренныйВолшебник\Source\Repos\web-basics\web-basics.data\obj\Debug\netcoreapp3.1\web-basics.data.pdb
